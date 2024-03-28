@@ -1,0 +1,60 @@
+{
+  "profesores": [
+    {
+      "nombre": "Carlos",
+      "apellido": "Vargas",
+      "materias": [
+        {
+          "nombre": "NodeJS desde Cero"
+        },
+        {
+          "nombre": "Angular desde Cero"
+        },
+        {
+          "nombre": "javaScrip inicial"
+        }
+      ],
+      "id": "3379"
+    }
+  ],
+  "alumnos": [
+    {
+      "nombre": "Maria",
+      "apellido": "Ramirez",
+      "promedio": 8.2,
+      "id": "29ad"
+    },
+    {
+      "nombre": "Cesar",
+      "apellido": "Rodriguez",
+      "promedio": 9.2,
+      "id": "6cbb"
+    },
+    {
+      "nombre": "Alejandra",
+      "apellido": "Agudelo",
+      "promedio": 10,
+      "id": "e54f"
+    }
+  ],
+  "cursos": [
+    {
+      "nombre": "NodeJS desde Cero",
+      "duracion": 7,
+      "dificultad": "Intermedia",
+      "id": "5a6a"
+    },
+    {
+      "nombre": "React desde Cero",
+      "duracion": 5,
+      "dificultad": "Intermedia",
+      "id": "e248"
+    },
+    {
+      "nombre": "Angular desde Cero",
+      "duracion": 4,
+      "dificultad": "Intermedia",
+      "id": "f7bb"
+    }
+  ]
+}
